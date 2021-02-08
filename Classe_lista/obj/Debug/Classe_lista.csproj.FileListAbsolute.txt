@@ -1,0 +1,7 @@
+C:\projetos\Classe_lista\Classe_lista\bin\Debug\Classe_lista.exe.config
+C:\projetos\Classe_lista\Classe_lista\bin\Debug\Classe_lista.exe
+C:\projetos\Classe_lista\Classe_lista\bin\Debug\Classe_lista.pdb
+C:\projetos\Classe_lista\Classe_lista\obj\Debug\Classe_lista.csprojAssemblyReference.cache
+C:\projetos\Classe_lista\Classe_lista\obj\Debug\Classe_lista.csproj.CoreCompileInputs.cache
+C:\projetos\Classe_lista\Classe_lista\obj\Debug\Classe_lista.exe
+C:\projetos\Classe_lista\Classe_lista\obj\Debug\Classe_lista.pdb
